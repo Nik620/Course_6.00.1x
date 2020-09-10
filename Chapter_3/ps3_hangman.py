@@ -9,7 +9,7 @@
 
 import random
 
-WORDLIST_FILENAME = "C:/Users/nikol/OneDrive/1 - Education/1.1 - Online Courses/edX/6.00.1x - Intro to Computer Science and Programming Using Python/words.txt"
+WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
