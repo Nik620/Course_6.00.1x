@@ -15,3 +15,9 @@ Problem given by MITx, my contributions are on the following (ie. any helper cod
 Chapter 4: 
 Scrabble games: ps4a/b contribution past helper code, otherwise rest from course. Ps4a is against self, and ps4b is against computer. Credit to Edx course for their contribution to code.
 
+Chapter 5:
+Problem challenged to create a ciphertext. Contributions to the following sections, all other are from MITx. 
+def build_shift_dict
+def apply_shift
+class PlaintextMessage
+class CiphertextMessage
