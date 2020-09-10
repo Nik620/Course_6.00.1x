@@ -15,7 +15,7 @@ SCRABBLE_LETTER_VALUES = {
 # Helper code
 # (you don't need to understand this helper code)
 
-WORDLIST_FILENAME = "C:/Users/nikol/OneDrive/1 - Education/1.1 - Online Courses/edX/6.00.1x - Intro to Computer Science and Programming Using Python/PSET 4/words.txt"
+WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
