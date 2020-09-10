@@ -22,3 +22,5 @@ def apply_shift,
 class PlaintextMessage,
 class CiphertextMessage,
 def decryptstory
+
+Chapter 6 & 7 no challenge problems.
