@@ -48,12 +48,12 @@ def get_story_string():
     """
     Returns: a joke in encrypted text.
     """
-    f = open("C:/Users/nikol/OneDrive/1 - Education/1.1 - Online Courses/edX/6.00.1x - Intro to Computer Science and Programming Using Python/PSET 6/story.txt", "r")
+    f = open("story.txt", "r")
     story = str(f.read())
     f.close()
     return story
 
-WORDLIST_FILENAME = 'C:/Users/nikol/OneDrive/1 - Education/1.1 - Online Courses/edX/6.00.1x - Intro to Computer Science and Programming Using Python/PSET 6/words.txt'
+WORDLIST_FILENAME = 'words.txt'
 
 class Message(object):
     ### DO NOT MODIFY THIS METHOD ###
