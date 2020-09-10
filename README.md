@@ -17,7 +17,8 @@ Scrabble games: ps4a/b contribution past helper code, otherwise rest from course
 
 Chapter 5:
 Problem challenged to create a ciphertext. Contributions to the following sections, all other are from MITx. 
-def build_shift_dict
-def apply_shift
-class PlaintextMessage
-class CiphertextMessage
+def build_shift_dict,
+def apply_shift,
+class PlaintextMessage,
+class CiphertextMessage,
+def decryptstory
